@@ -42,8 +42,6 @@ const ChatContainer = () => {
       </div>
     );
   }
-
-  console.log(messages);
   
   return (
     <div className="flex-1 flex flex-col overflow-auto">
